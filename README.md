@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola! 👋
 
-<!--
-**Luisoooooooooo/Luisoooooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Luiso Vázquez**, diseñador gráfico y desarrollador Full Stack.
 
-Here are some ideas to get you started:
+Mi trabajo combina conceptos sólidos con metodologías racionales y design thinking para ofrecer soluciones efectivas a pequeñas empresas, marcas e individuos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí:
+- 🎨 **Diseñador Gráfico** con un fuerte enfoque en todas las ramas del diseño (editorial, tipografía, multimedia, UX/UI…).
+- 💻 **Desarrollador Full Stack en formación**, actualmente centrado en frameworks como **Angular** y **Laravel**.
+- 🌱 **Autodidacta** apasionado por enfrentar nuevos retos y seguir evolucionando profesionalmente.
+
+---
+
+### 📫 Cómo contactarme:
+- **Email**: [hola@luisovazquez.es](hola@luisovazquez.es)
+- **LinkedIn**: [Luis Alfonso Vázquez](https://www.linkedin.com/in/luisalfonsovazquez/)
+- **Portfolio**: [www.luisovazquez.es](www.luisovazquez.es)
